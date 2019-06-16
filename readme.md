@@ -7,5 +7,5 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Command List
 
 1.Trait generator : php artisan make:trait TraitName
-2.Interface generator : php artisan make:interface TraitName
-3.Repository generator : php artisan make:repository TraitName
+2.Interface generator : php artisan make:interface InterfaceName
+3.Repository generator : php artisan make:repository RepositoryName
